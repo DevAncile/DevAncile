@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevAncile
-- 👀 I’m interested in Microsoft Power Platform/Azure/SharePoint and Machine Learning.
-- 🌱 I’m currently learning Python and machine learning for predictive analysis.
-- 💞️ I’m looking to collaborate on project involving Python and machine learning.
+- 👀 I’m interested in JavaScript, Microsoft Power Platform, SharePoint SpFx and IoT.
+- 🌱 I’m currently learning and building with the SharePoint SpFx.
+- 💞️ I’m looking to collaborate on project involving IoT utilizing JavaScript.
 - 📫 How to reach me ...
 
 <!---
